@@ -199,11 +199,70 @@
     height: 250px;
     margin-bottom: 20px;
 }
+
 .offer-year {
     color: #F00;
     font-family: Inter;
     font-size: 30px;
 
+}
+
+.container {
+    width: 95%;
+    margin: 50px auto;
+}
+
+.holiday-sale {
+    text-align: center;
+}
+
+#functional h4 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 15px;
+}
+
+#functional h2 {
+    color: #F00;
+    font-family: Merriweather;
+    font-size: 42px;
+    margin: 5px 0;
+
+}
+
+#functional h2 span {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 42px;
+}
+
+#functional p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 9px;
+}
+
+#sale-img {
+    text-align: right;
+    margin-top: 30px;
+    transform: translateY(1%);
+}
+
+#sale-img img {
+    width: 400px;
+}
+
+.discount {
+    transform: translateX(50%);
+}
+
+.box-photo {
+    transform: translateY(35%);
+     margin-left: 50px;
+}
+
+.rectangle-photo {
+    width: 100%;
 }
 
 /* bonus end */
@@ -266,9 +325,9 @@
     background: #FFF;
     border: 0;
     width: 300px;
-    /* height: 30px; */
-    padding: 10px;
-    position: relative;
+    padding: 10px 20px;
+
+
 }
 
 .Newsletter-btn {
